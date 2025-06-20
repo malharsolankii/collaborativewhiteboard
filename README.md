@@ -126,7 +126,7 @@ A modern, real-time collaborative whiteboard application that enables multiple u
 
 ## 🌐 Demo
 
-**Live Demo**: [Collaborative Whiteboard Demo](https://your-demo-link.netlify.app)
+**Live Demo**: [Collaborative Whiteboard Demo](https://cute-granita-817093.netlify.app/)
 
 ### Demo Features
 - Try all drawing tools and features
